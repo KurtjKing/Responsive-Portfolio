@@ -21,10 +21,6 @@ body {
   clear: both;
 }
 
-@media(max-width 640px){
-  background-color: red;
-}
-
 h1,
 h2,
 h3,
